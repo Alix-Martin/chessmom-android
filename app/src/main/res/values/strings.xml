@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Chess Monitor</string>
+    <string name="tournament_id_label">Tournament ID</string>
+    <string name="round_label">Round</string>
+    <string name="start_monitoring">Start Monitoring</string>
+    <string name="stop_monitoring">Stop Monitoring</string>
+    <string name="tournament_config">Tournament Configuration</string>
+    <string name="status">Status</string>
+    <string name="tournament_results">Tournament Results</string>
+    <string name="no_games_yet">No games loaded yet</string>
+    <string name="monitoring_active">Active</string>
+    <string name="monitoring_stopped">Stopped</string>
+    <string name="connection_connected">Connected</string>
+    <string name="connection_error">Error</string>
+    <string name="connection_disconnected">Disconnected</string>
+    <string name="games_finished_format">%1$d/%2$d finished</string>
+    <string name="last_update">Last Update:</string>
+    <string name="monitoring_status">Monitoring:</string>
+    <string name="connection_status">Connection:</string>
+    <string name="games_status">Games:</string>
+</resources>

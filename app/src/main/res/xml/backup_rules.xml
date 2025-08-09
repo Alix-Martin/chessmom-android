@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<full-backup-content xmlns:android="http://schemas.android.com/apk/res/android">
+    <!-- Allow backup of all app data -->
+    <include domain="file" path="." />
+    <include domain="database" path="." />
+    <include domain="sharedpref" path="." />
+    <include domain="external" path="." />
+</full-backup-content>
